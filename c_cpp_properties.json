@@ -1,0 +1,14 @@
+{
+    "configurations": [
+      {
+        "name": "Linux",
+        "compilerPath": "/usr/bin/gcc",
+        "includePath": ["/usr/include", "/usr/include/SDL2"],
+        "intelliSenseMode": "linux-gcc-x86",
+        "compileCommands": "${workspaceFolder}/build/compile_commands.json"
+      }
+    ],
+    "version": 4,
+    "enableConfigurationSquiggles": true
+  }
+  

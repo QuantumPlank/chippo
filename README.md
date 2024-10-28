@@ -1,3 +1,3 @@
-chippo
+# CHIPPO
 
-Chip-8 emulator in C++
+Chip-8 emulator
